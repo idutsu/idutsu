@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+お問い合わせはemail@idutsu.comまでご連絡ください
 <!--
 **idutsu/idutsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
