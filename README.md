@@ -16,3 +16,4 @@
 
 ![キリクチくんオープン](images/githubopen.jpg)
 ![キリクチくんクローズ](images/githubclose.jpg)
+![キリクチくん座る](images/githubsit.jpg)
