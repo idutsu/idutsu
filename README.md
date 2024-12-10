@@ -2,6 +2,12 @@
 
 放送作家です。専門は冗談です。イラストを描くのとアニメを作るのはとても難しいです。冗談生成AIを研究しています。
 
+## IMAGES
+
+![キリクチくんオープン](images/githubopen.jpg)
+![キリクチくんクローズ](images/githubopen.jpg)
+
+
 ## CONTACT
 
 お問い合わせは email@idutsu.com までご連絡ください。
