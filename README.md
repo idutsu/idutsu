@@ -1,12 +1,12 @@
 ## PROFILE
 
-放送作家です。専門は冗談です。イラストを描くのとアニメを作るのはとても難しいです。冗談生成AIを研究しています。
+放送作家です。専門は冗談です。イラストを描くのとアニメを作るのはとても難しいです。冗談計算機の研究をしています。
 
 ## REPO
 
-[**冗談生成AI開発**](https://github.com/idutsu/kirikuchikun-ai)
+[**冗談計算機の研究**](https://github.com/idutsu/kirikuchikun-ai)
 
-[**冗談生成AI日記**](https://github.com/idutsu/kirikuchikun-diary)
+[**冗談計算機の日記**](https://github.com/idutsu/kirikuchikun-diary)
 
 ## CONTACT
 
