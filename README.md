@@ -1,4 +1,4 @@
-## PROFILE
+## ME
 
 放送作家です。専門は冗談です。イラストを描くのとアニメを作るのはとても難しいです。冗談計算機の研究をしています。
 
@@ -12,7 +12,7 @@
 
 お問い合わせは email@idutsu.com までご連絡ください。
 
-## IMAGES
+## GALLERY
 
 ![キリクチくんオープン](images/githubopen.jpg)
 ![キリクチくんクローズ](images/githubclose.jpg)
