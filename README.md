@@ -4,9 +4,9 @@
 
 ## REPO
 
-[**冗談計算機の研究**](https://github.com/idutsu/kirikuchikun-diary)
+[**【研究】冗談計算機**](https://github.com/idutsu/kirikuchikun-diary)
 
-[**冗談計算機の開発**](https://github.com/idutsu/kirikuchikun-ai)
+[**【開発】冗談計算機**](https://github.com/idutsu/kirikuchikun-ai)
 
 ## CONTACT
 
