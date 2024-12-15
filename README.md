@@ -7,6 +7,7 @@
     <img src="images/adobeillustrator.svg" alt="Illustrator" width="40" height="40"/>
     <img src="images/adobephotoshop.svg" alt="Photoshop" width="40" height="40"/>
     <img src="images/python.svg" alt="Python" width="40" height="40"/>
+    <img src="images/php.svg" alt="Python" width="40" height="40"/>
     <img src="images/javascript.svg" alt="Python" width="40" height="40"/>
 </div>
 
