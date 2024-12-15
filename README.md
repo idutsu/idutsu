@@ -4,10 +4,11 @@
 
 ## SKILLS 
 <div style="display: flex; gap: 20px; align-items: center;">
-    <img src="images/adobeillustrator.svg" alt="Illustrator" width="40" height="40" style="color: #FF9A00;"/>
-    <img src="images/adobephotoshop.svg" alt="Photoshop" width="40" height="40" style="color: #31A8FF"/>
-    <img src="images/python.svg" alt="Python" width="40" height="40" style="color: #3776AB"/>
+    <img src="images/adobeillustrator.svg" alt="Illustrator" width="40" height="40" style="filter: invert(53%) sepia(100%) saturate(600%) hue-rotate(-15deg) brightness(95%) contrast(105%);" />
+    <img src="images/adobephotoshop.svg" alt="Photoshop" width="40" height="40" style="filter: invert(46%) sepia(100%) saturate(300%) hue-rotate(170deg) brightness(90%) contrast(85%);" />
+    <img src="images/python.svg" alt="Python" width="40" height="40" style="filter: invert(35%) sepia(90%) saturate(500%) hue-rotate(190deg) brightness(85%) contrast(105%);" />
 </div>
+
 
 
 ## REPOS
