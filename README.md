@@ -8,8 +8,10 @@
     <img src="images/adobeillustrator.svg" alt="Illustrator" width="40" height="40"/>
     <img src="images/adobephotoshop.svg" alt="Photoshop" width="40" height="40"/>
     <img src="images/python.svg" alt="Python" width="40" height="40"/>
-    <img src="images/php.svg" alt="Python" width="40" height="40"/>
-    <img src="images/javascript.svg" alt="Python" width="40" height="40"/>
+    <img src="images/php.svg" alt="PHP" width="40" height="40"/>
+    <img src="images/javascript.svg" alt="Javascript" width="40" height="40"/>
+    <img src="images/html5.svg" alt="Html5" width="40" height="40"/>
+    <img src="images/css3.svg" alt="Css3" width="40" height="40"/>
 </div>
 
 
