@@ -4,9 +4,9 @@
 
 ## SKILLS 
 <div style="display: flex; gap: 20px; align-items: center;">
-    <img src="images/adobeillustrator.svg" alt="Illustrator" width="40" height="40" style="fill: #FF9A00;"/>
-    <img src="images/adobephotoshop.svg" alt="Photoshop" width="40" height="40" style="fill: #31A8FF"/>
-    <img src="images/python.svg" alt="Python" width="40" height="40" style="fill: #3776AB"/>
+    <img src="images/adobeillustrator.svg" alt="Illustrator" width="40" height="40" style="color: #FF9A00;"/>
+    <img src="images/adobephotoshop.svg" alt="Photoshop" width="40" height="40" style="color: #31A8FF"/>
+    <img src="images/python.svg" alt="Python" width="40" height="40" style="color: #3776AB"/>
 </div>
 
 
