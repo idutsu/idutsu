@@ -2,6 +2,14 @@
 
 **放送作家**です。専門は冗談です。イラストを描くのとアニメを作るのはとても難しいです。**冗談計算機**の研究と開発をしています。
 
+## SKILLS 
+<div style="display: flex; gap: 20px; align-items: center;">
+    <img src="images/adobeillustrator.svg" alt="Illustrator" width="40" height="40" style="fill: #FF9A00;"/>
+    <img src="images/adobephotoshop.svg" alt="Photoshop" width="40" height="40" style="fill: #31A8FF"/>
+    <img src="images/python.svg" alt="Python" width="40" height="40" style="fill: #3776AB"/>
+</div>
+
+
 ## REPOS
 
 [**【日記】冗談計算機**](https://github.com/idutsu/kirikuchikun-diary)  
