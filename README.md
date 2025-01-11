@@ -10,17 +10,8 @@
     <img src="images/python.svg" alt="Python" width="40" height="40"/>
 </div>
 
-<!--
 ## REPOS
-[**【日記】冗談計算機**](https://github.com/idutsu/kirikuchikun-diary)  
-冗談計算機を研究開発していて思ったことや感じたことを書いています
-
-[**【研究】冗談計算機**](https://github.com/idutsu/kirikuchikun-res)  
-冗談計算機の研究過程を書いています
-
-[**【開発】冗談計算機**](https://github.com/idutsu/kirikuchikun-dev)  
-冗談計算機のソースコードを書いています
--->
+[**太陽を張り込むまで**](https://github.com/idutsu/kirikuchikun-diary)  
 
 ## CONTACT
 
