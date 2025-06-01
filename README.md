@@ -1,6 +1,6 @@
 ## ME
 
-**放送作家**です。専門は冗談です。イラストを描くのとアニメを作るのはとても難しいです。
+冗談を言うのが好きです。イラストを描くのとアニメを作るのはとても難しいです。
 
 ## SKILLS
 
@@ -14,9 +14,3 @@
 ## CONTACT
 
 お問い合わせは email@idutsu.com までご連絡ください。
-
-## GALLERY
-
-![キリクチくんオープン](images/githubopen.jpg)
-![キリクチくんクローズ](images/githubclose.jpg)
-![キリクチくん座る](images/githubsit.jpg)
